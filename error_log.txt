@@ -1,0 +1,1 @@
+ERROR:root:Error: Unable to save results to imdb_wikipedia_results.json. Object of type Person is not JSON serializable
