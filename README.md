@@ -1,4 +1,4 @@
-# IMDb Wikipedia Search Script
+# IMDbWikiSearch
 
 This Python script allows you to search for movies using the IMDb API and fetch their Wikipedia summaries asynchronously.
 
@@ -7,7 +7,7 @@ This Python script allows you to search for movies using the IMDb API and fetch 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Syslogine/IMDbWikiSearch.git
    ```
 
 2. Install the required dependencies:
@@ -19,7 +19,7 @@ This Python script allows you to search for movies using the IMDb API and fetch 
 3. Run the script:
 
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 4. Enter a movie title when prompted.
